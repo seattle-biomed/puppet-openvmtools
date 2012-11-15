@@ -1,0 +1,19 @@
+openvmtools
+
+A Puppet module to install and configure openvmtools on VMware VMs.
+
+License
+-------
+
+Apache License, Version 2.0.
+
+Contact
+-------
+
+See below.
+
+Support
+-------
+
+Please log tickets and issues on GitHub: 
+https://github.com/seattle-biomed/puppet-openvmtools
